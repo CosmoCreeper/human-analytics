@@ -1,5 +1,5 @@
 {
-  "name": "human-analytics",
+  "name": "trainable-guesser",
   "version": "1.0.0",
   "description": "A trained guesser.",
   "main": "./modules/name-guesser/index.js",
