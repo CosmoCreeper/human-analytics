@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://www.github.com/CosmoCreeper/human-analytics",
   "author": "CosmoCreeper",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
