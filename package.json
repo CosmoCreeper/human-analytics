@@ -1,7 +1,7 @@
 {
   "name": "human-analytics",
   "version": "1.0.0",
-  "description": "A person type scanner.",
+  "description": "A trained guesser.",
   "main": "./modules/name-guesser/index.js",
   "repository": "https://www.github.com/CosmoCreeper/human-analytics",
   "author": "CosmoCreeper",
