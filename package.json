@@ -1,0 +1,9 @@
+{
+  "name": "human-analytics",
+  "version": "1.0.0",
+  "description": "A person type scanner.",
+  "main": "index.js",
+  "repository": "https://www.github.com/CosmoCreeper/human-analytics",
+  "author": "CosmoCreeper",
+  "license": "MIT"
+}
